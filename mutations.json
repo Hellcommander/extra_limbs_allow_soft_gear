@@ -1,0 +1,16 @@
+[
+    {
+    "type": "mutation",
+    "id": "INSECT_ARMS",
+	"copy-from": "INSECT_ARMS",
+    "description": "You've *finally* sprouted a pair of arms from your midsection.  They flail more or less uncontrollably, making you feel rather larval. Prevents wearing non-fabric items in the torso slot.",
+	"allow_soft_gear": true
+  },
+      {
+    "type": "mutation",
+    "id": "ARACHNID_ARMS",
+	"copy-from": "ARACHNID_ARMS",
+	"description": "There's the last two limbs you were expecting.  Unfortunately, you still can't coordinate them, so you're getting in your own way.  A lot. Prevents wearing non-fabric items in the torso slot.",
+	"allow_soft_gear": true
+  }
+]
