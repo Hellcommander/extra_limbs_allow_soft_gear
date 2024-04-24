@@ -5,7 +5,7 @@
     "name": "extra limbs allow soft gear",
     "authors": [ "Arendeth" ],
     "maintainers": [ "Arendeth" ],
-    "description": "Changes it so base game insect/ arcanids limb prior to the ok version of them (by defualt they restrict gear with saying so in description) to allow wearing non-rigid (soft) armor/items in the slots they restrict.",
+    "description": "Changes it so base game insect/arcanids limb prior to the ok version of them (by defualt they restrict gear with saying so in description) to allow wearing non-rigid (soft) armor/items in the slots they restrict.",
     "category": "rebalance",
     "dependencies": [ "dda" ]
   }
